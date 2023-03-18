@@ -24,15 +24,22 @@ section p{
     color: red;
 }
 */
+/* font-size: 3em (tres veces el tamaño original) 100px (tamaño en pixceles)*/
+/* letter-spacing 10px  espacio entre letras*/
+/* word-spacing 10px espacio entre palabras */
+/* font-family: ; tipo de letras (serif)*/
 header{
-    background-color: black;
+    background-color: rgb(39, 39, 39);
 }
 h1{
-    color: rgba(184, 195, 111, 0.679);
+    color: rgb(208, 211, 202);
     text-align: center;
+    font-size: 3em;
+    letter-spacing: 10px;
+    word-spacing: 10px;
 }
 nav{
-    background-color: rgba(184, 195, 111, 0.679);
+    background-color: rgb(208, 211, 202);
     text-align: center;
 }
 section{
