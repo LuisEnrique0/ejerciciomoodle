@@ -1,4 +1,23 @@
 /* Estos son comentarios en CSS */
 h1{
-    color:blue;
+    /* color del texto con color */
+    color: #344E41;
+    /* alinacion de texto con text-align */
+    text-align: center;
+}
+h2{
+    color: #344E41;
+    /* fondo del texto con background-color */
+    background-color: #DAD7CD;
+    text-align: right;
+}
+
+footer{
+    background-color: yellow;
+}
+section{
+    background-color: blue;
+}
+aside{
+    background-color: pink;
 }
