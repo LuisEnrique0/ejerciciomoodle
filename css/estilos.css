@@ -1,23 +1,36 @@
 /* Estos son comentarios en CSS */
-h1{
+/* h1{ */
     /* color del texto con color */
-    color: #344E41;
+    /* color: #344E41; */
     /* alinacion de texto con text-align */
+    /* text-align: center; */
+/* } */
+/* h2{ */
+    /* color: #344E41; */
+    /* fondo del texto con background-color */
+    /* background-color: #DAD7CD; */
+    /* text-align: right; */
+/* } */
+header{
+    background-color: rgb(96, 95, 95);
+}
+h1{
+    color: rgb(145, 160, 110);
     text-align: center;
 }
-h2{
-    color: #344E41;
-    /* fondo del texto con background-color */
-    background-color: #DAD7CD;
-    text-align: right;
-}
-
-footer{
-    background-color: yellow;
+nav{
+    background-color: rgb(145, 160, 110);
+    text-align: center;
 }
 section{
-    background-color: blue;
+    background-color: rgb(4, 120, 251);
+    text-align: center;
 }
 aside{
-    background-color: pink;
+    background-color: rgb(226, 24, 166);
+    text-align: center;
+}
+footer{
+    background-color: yellow;
+    text-align: center;
 }
