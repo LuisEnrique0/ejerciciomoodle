@@ -11,19 +11,32 @@
     /* background-color: #DAD7CD; */
     /* text-align: right; */
 /* } */
+/* *{
+    selector universal
+} 
+h1,h2,p{
+    selector multiple
+}
+*/
+/*
+seleccion por herencia 
+section p{
+    color: red;
+}
+*/
 header{
-    background-color: rgb(96, 95, 95);
+    background-color: black;
 }
 h1{
-    color: rgb(145, 160, 110);
+    color: rgba(184, 195, 111, 0.679);
     text-align: center;
 }
 nav{
-    background-color: rgb(145, 160, 110);
+    background-color: rgba(184, 195, 111, 0.679);
     text-align: center;
 }
 section{
-    background-color: rgb(4, 120, 251);
+    background-color: rgb(4, 206, 251);
     text-align: center;
 }
 aside{
