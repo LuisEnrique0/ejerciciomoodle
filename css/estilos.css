@@ -28,6 +28,12 @@ section p{
 /* letter-spacing 10px  espacio entre letras*/
 /* word-spacing 10px espacio entre palabras */
 /* font-family: ; tipo de letras (serif, sanserif, script, monospace, etc)*/
+ a{ 
+     text-decoration: none; 
+} 
+body{
+    font-family: 'Roboto', sans-serif;
+}
 header{
     background-color: rgb(39, 39, 39);
 }
@@ -54,6 +60,9 @@ footer{
     background-color: yellow;
     text-align: center;
 }
-body{
-    font-family: 'Roboto', sans-serif;
+p{
+    /* texto en negrita con font-wieght:bold; y text-decoration: underline; para subrrallado*/
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
 }
