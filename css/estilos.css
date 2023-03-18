@@ -27,7 +27,7 @@ section p{
 /* font-size: 3em (tres veces el tamaño original) 100px (tamaño en pixceles)*/
 /* letter-spacing 10px  espacio entre letras*/
 /* word-spacing 10px espacio entre palabras */
-/* font-family: ; tipo de letras (serif)*/
+/* font-family: ; tipo de letras (serif, sanserif, script, monospace, etc)*/
 header{
     background-color: rgb(39, 39, 39);
 }
