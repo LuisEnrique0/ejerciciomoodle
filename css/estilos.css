@@ -28,7 +28,14 @@ section p{
 /* letter-spacing 10px  espacio entre letras*/
 /* word-spacing 10px espacio entre palabras */
 /* font-family: ; tipo de letras (serif, sanserif, script, monospace, etc)*/
- a{ 
+/* texto en negrita con font-wieght:bold; y text-decoration: underline; para subrrallado*/
+/* cambiar texto con text-transform */
+/* p{
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+} */
+a{ 
      text-decoration: none; 
 } 
 body{
@@ -59,10 +66,4 @@ aside{
 footer{
     background-color: yellow;
     text-align: center;
-}
-p{
-    /* texto en negrita con font-wieght:bold; y text-decoration: underline; para subrrallado*/
-    font-weight: bold;
-    text-decoration: underline;
-    text-transform: uppercase;
 }
